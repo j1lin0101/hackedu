@@ -37,6 +37,7 @@ team.
   - [Harrison Shoebridge](https://github.com/paked)
 - Lowell High School
   - [Teagan Mucher](https://github.com/temucher)
+  - [Jeremy Lin](https://github.com/j1lin0101)
 - Project Cipher
   - [Jevin Sidhu](https://github.com/JevinSidhu)
 - USC Hybrid High School
